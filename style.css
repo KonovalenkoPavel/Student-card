@@ -1,0 +1,80 @@
+.main {
+    background-color: #ecfcef;
+    text-align: center;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.avatar-photo {
+    width: 200px;
+    height: 100%;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+
+.info-text p {
+    margin: 0px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.info {
+    display: flex;
+    background-color: #FED4CC;
+    border-radius: 50px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.my-purpose {
+    background-color: #FEFCCC;
+    border-radius: 50px;
+    padding: 30px;
+}
+
+.my-purpose-text {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.time-learn {
+    background-color: #ccfef1;
+    border-radius: 50px;
+    padding: 30px;
+}
+
+.time-learn-table {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+ 
+}
+
+.courses {
+    background-color: #fcdeed;
+    border-radius: 50px;
+    padding: 30px;
+}
+
+.courses-table {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;s
+    text-align: center;
+
+}
+
+.contacts {
+    background-color: #e2defc;
+    border-radius: 50px;
+    padding: 30px;
+}
+
+.contacts-name {
+    display: flex;
+    margin-left: 20px;
+    justify-content: space-around;
+}
